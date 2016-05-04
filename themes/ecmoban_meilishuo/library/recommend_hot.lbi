@@ -1,0 +1,41 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- {if $hot_goods} -->
+<!-- {if $cat_rec_sign neq 1} -->
+<div class="xm-box">
+<h4 class="title"><span>热销排行</span> <a class="more" href="../search.php?intro=hot">更多</a></h4>
+<div id="show_hot_area" class="clearfix">
+  <!-- {/if} -->
+  <!--{foreach from=$hot_goods item=goods}-->
+    <div class="goodsItem">
+        <a href="{$goods.url}"><img src="{$goods.goods_img}" alt="{$goods.name|escape:html}" class="goodsimg"/></a><br/>
+
+        <div class="proText">
+            <div class="proTextName">
+                <p class="f1"><a href="{$goods.url}" title="{$goods.name|escape:html}">{$goods.short_style_name}</a>
+                </p>
+            </div>
+            <div class="jiage">
+                <font class="f1"><!-- {if $goods.promote_price neq ""} -->
+                    {$goods.promote_price}
+                    <!-- {else}-->
+                    {$goods.shop_price}
+                    <!--{/if}--></font>
+            </div>
+            <div class="jiage0">
+                <a href="{$goods.url}">查看&gt;&gt;</a>
+            </div>
+            <div class="jiage1">
+                <a href="{$goods.url}">购买&gt;&gt;</a>
+            </div>
+        </div>
+
+    </div>
+  <!--{/foreach}-->
+ 
+  <!-- {if $cat_rec_sign neq 1} -->
+  </div>
+
+</div>
+<div class="blank"></div>
+  <!-- {/if} -->
+<!-- {/if} -->
