@@ -355,9 +355,9 @@ function reg(str){
       </ul>
 
       <ul class="stock-info">
-         <li style="width: 30%; float: left;">
+         <li style="width: 27%; float: left;">
              商品库存： <font style="color:#FFB03B; font-weight:bold;"><?php echo $this->_var['goods']['goods_number']; ?></font></li>
-         <li style="width: 30%; float: left;">
+         <li style="width: 27%; float: left;">
              已销售：<font color="red" style="font-weight: 700;font-size: 18px;"><?php echo $this->_var['goods']['sell_number']; ?>件</font>
          </li>
          <li style="width: 30%; float: left;">

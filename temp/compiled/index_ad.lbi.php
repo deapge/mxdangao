@@ -2,11 +2,11 @@
 <style type="text/css"> 
 .container, .container *{margin:0; padding:0;}
 
-.container{width:100%; height:419px; overflow:hidden;position:relative;}
+.container{width:100%; height:600px; overflow:hidden;position:relative;}
 
-.slider{position:absolute; width:100%; height:419px;}
-.slider li , .slider li a{list-style:none; float:left;width:100%; height:419px;}
-.slider img{width:100%; height:419px; display:block;}
+.slider{position:absolute; width:100%; height:600px;}
+.slider li , .slider li a{list-style:none; float:left;width:100%; height:600px;}
+.slider img{width:100%; height:600px; display:block;}
 
 .slider2{width:2000px;}
 .slider2 li{float:left;}
@@ -41,21 +41,21 @@
 </style>
 <div class="container" id="idTransformView">
   <ul class="slider" id="idSlider">
-  <?php $_from = $this->_var['flash']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'flash_0_13102300_1459954110');$this->_foreach['myflash'] = array('total' => count($_from), 'iteration' => 0);
+  <?php $_from = $this->_var['flash']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'flash_0_69021700_1462843043');$this->_foreach['myflash'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['myflash']['total'] > 0):
-    foreach ($_from AS $this->_var['flash_0_13102300_1459954110']):
+    foreach ($_from AS $this->_var['flash_0_69021700_1462843043']):
         $this->_foreach['myflash']['iteration']++;
 ?>
-      <li style="background:url(<?php echo $this->_var['flash_0_13102300_1459954110']['src']; ?>) center 0 no-repeat; position:relative;"><a href="<?php echo $this->_var['flash_0_13102300_1459954110']['url']; ?>" target="_blank"></a></li>
+      <li style="background:url(<?php echo $this->_var['flash_0_69021700_1462843043']['src']; ?>) center 0 no-repeat; position:relative;"><a href="<?php echo $this->_var['flash_0_69021700_1462843043']['url']; ?>" target="_blank"></a></li>
       <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
 
   </ul>
   <ul class="num" id="idNum">
  
     
-     <?php $_from = $this->_var['flash']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'flash_0_13115600_1459954110');$this->_foreach['no'] = array('total' => count($_from), 'iteration' => 0);
+     <?php $_from = $this->_var['flash']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'flash_0_69028200_1462843043');$this->_foreach['no'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['no']['total'] > 0):
-    foreach ($_from AS $this->_var['flash_0_13115600_1459954110']):
+    foreach ($_from AS $this->_var['flash_0_69028200_1462843043']):
         $this->_foreach['no']['iteration']++;
 ?>
      <li>

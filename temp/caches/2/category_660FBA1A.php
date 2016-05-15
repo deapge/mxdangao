@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:8:{i:0;s:68:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/category.dwt";i:1;s:79:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/page_header.lbi";i:2;s:87:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/category_tree_index.lbi";i:3;s:75:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/ur_here.lbi";i:4;s:81:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/category_tree.lbi";i:5;s:78:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/goods_list.lbi";i:6;s:73:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/pages.lbi";i:7;s:79:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/page_footer.lbi";}s:7:"expires";i:1462330280;s:8:"maketime";i:1462326680;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:8:{i:0;s:75:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/category.dwt";i:1;s:86:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/page_header.lbi";i:2;s:94:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/category_tree_index.lbi";i:3;s:82:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/ur_here.lbi";i:4;s:88:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/category_tree.lbi";i:5;s:85:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/goods_list.lbi";i:6;s:80:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/pages.lbi";i:7;s:86:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/page_footer.lbi";}s:7:"expires";i:1463303676;s:8:"maketime";i:1463300076;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -438,13 +438,18 @@ jQuery(document).ready(function(){
         <div id="HandleLI2_1">
         <a    class="a
          "
- href="category.php?id=1">
- 蛋糕预定  <img src="themes/ecmoban_meilishuo/images/biao8.gif">
-                            <a target="_blank" href="category.php?id=6">按材料</a>&nbsp;
-                            <a target="_blank" href="category.php?id=7">按用途</a>&nbsp;
-                            <a target="_blank" href="category.php?id=8">按造型</a>&nbsp;
-                            <a target="_blank" href="category.php?id=9">按对象</a>&nbsp;
-                            <a target="_blank" href="category.php?id=10">按价格</a>&nbsp;
+ href="category.php?id=6">
+ 按材料  <img src="themes/ecmoban_meilishuo/images/biao8.gif">
+                            <a target="_blank" href="category.php?id=11">鲜奶蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=12">彩虹蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=14">水果蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=15">慕斯蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=110">冰激凌蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=16">芝士蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=17">无糖蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=18">翻糖蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=19">黑森林蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=20">巧克力蛋糕</a>&nbsp;
             
  </a>
 </div>
@@ -452,56 +457,44 @@ jQuery(document).ready(function(){
         
         
 <dd  id=DisSub2_1 style="display:none"> 
- <a class="over_2" href="category.php?id=6">按材料</a>  
+ <a class="over_2" href="category.php?id=11">鲜奶蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=11">鲜奶蛋糕</a>
-<a class="over_3" href="category.php?id=12">彩虹蛋糕</a>
-<a class="over_3" href="category.php?id=14">水果蛋糕</a>
-<a class="over_3" href="category.php?id=15">慕斯蛋糕</a>
-<a class="over_3" href="category.php?id=110">冰激凌蛋糕</a>
-<a class="over_3" href="category.php?id=16">芝士蛋糕</a>
-<a class="over_3" href="category.php?id=17">无糖蛋糕</a>
-<a class="over_3" href="category.php?id=18">翻糖蛋糕</a>
-<a class="over_3" href="category.php?id=19">黑森林蛋糕</a>
-<a class="over_3" href="category.php?id=20">巧克力蛋糕</a>
 </div>   
        
- <a class="over_2" href="category.php?id=7">按用途</a>  
+ <a class="over_2" href="category.php?id=12">彩虹蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=21">生日蛋糕</a>
-<a class="over_3" href="category.php?id=22">祝寿蛋糕</a>
-<a class="over_3" href="category.php?id=23">情侣蛋糕</a>
-<a class="over_3" href="category.php?id=24">节日蛋糕</a>
-<a class="over_3" href="category.php?id=25">婚庆蛋糕</a>
-<a class="over_3" href="category.php?id=111">庆典蛋糕</a>
-<a class="over_3" href="category.php?id=26">儿童蛋糕</a>
-<a class="over_3" href="category.php?id=27">圣诞蛋糕</a>
 </div>   
        
- <a class="over_2" href="category.php?id=8">按造型</a>  
+ <a class="over_2" href="category.php?id=14">水果蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=28">心形蛋糕</a>
-<a class="over_3" href="category.php?id=29">方形蛋糕</a>
-<a class="over_3" href="category.php?id=30">圆形蛋糕</a>
-<a class="over_3" href="category.php?id=31">多层蛋糕</a>
-<a class="over_3" href="category.php?id=32">艺术蛋糕</a>
-<a class="over_3" href="category.php?id=33">生肖蛋糕</a>
 </div>   
        
- <a class="over_2" href="category.php?id=9">按对象</a>  
+ <a class="over_2" href="category.php?id=15">慕斯蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=34">恋人蛋糕</a>
-<a class="over_3" href="category.php?id=35">长辈蛋糕</a>
-<a class="over_3" href="category.php?id=36">朋友蛋糕</a>
-<a class="over_3" href="category.php?id=37">baby蛋糕</a>
 </div>   
        
- <a class="over_2" href="category.php?id=10">按价格</a>  
+ <a class="over_2" href="category.php?id=110">冰激凌蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=38">100-200元</a>
-<a class="over_3" href="category.php?id=39">200-300元</a>
-<a class="over_3" href="category.php?id=40">300-1000元</a>
-<a class="over_3" href="category.php?id=41">1000元以上</a>
+</div>   
+       
+ <a class="over_2" href="category.php?id=16">芝士蛋糕</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=17">无糖蛋糕</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=18">翻糖蛋糕</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=19">黑森林蛋糕</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=20">巧克力蛋糕</a>  
+<div class="clearfix">
 </div>   
        
 </dd> 
@@ -511,14 +504,16 @@ jQuery(document).ready(function(){
         <a    class="a
          t
 "
- href="category.php?id=2">
- 鲜花速递  <img src="themes/ecmoban_meilishuo/images/biao8.gif">
-                            <a target="_blank" href="category.php?id=42">花材选购</a>&nbsp;
-                            <a target="_blank" href="category.php?id=43">按用途</a>&nbsp;
-                            <a target="_blank" href="category.php?id=44">按对象</a>&nbsp;
-                            <a target="_blank" href="category.php?id=45">按节日</a>&nbsp;
-                            <a target="_blank" href="category.php?id=46">按枝数</a>&nbsp;
-                            <a target="_blank" href="category.php?id=47">按价格</a>&nbsp;
+ href="category.php?id=7">
+ 按用途  <img src="themes/ecmoban_meilishuo/images/biao8.gif">
+                            <a target="_blank" href="category.php?id=21">生日蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=22">祝寿蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=23">情侣蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=24">节日蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=25">婚庆蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=111">庆典蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=26">儿童蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=27">圣诞蛋糕</a>&nbsp;
             
  </a>
 </div>
@@ -526,71 +521,36 @@ jQuery(document).ready(function(){
         
         
 <dd  id=DisSub2_2 style="display:none"> 
- <a class="over_2" href="category.php?id=42">花材选购</a>  
+ <a class="over_2" href="category.php?id=21">生日蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=71">-红玫瑰-</a>
-<a class="over_3" href="category.php?id=72">-粉玫瑰-</a>
-<a class="over_3" href="category.php?id=73">-白玫瑰-</a>
-<a class="over_3" href="category.php?id=74">-蓝玫瑰-</a>
-<a class="over_3" href="category.php?id=75">-百合-</a>
-<a class="over_3" href="category.php?id=76">-康乃馨-</a>
-<a class="over_3" href="category.php?id=77">-郁金香-</a>
-<a class="over_3" href="category.php?id=78">-香槟玫瑰-</a>
 </div>   
        
- <a class="over_2" href="category.php?id=43">按用途</a>  
+ <a class="over_2" href="category.php?id=22">祝寿蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=64">-爱情-</a>
-<a class="over_3" href="category.php?id=65">-祝福-</a>
-<a class="over_3" href="category.php?id=66">-友情-</a>
-<a class="over_3" href="category.php?id=67">-商务-</a>
-<a class="over_3" href="category.php?id=68">-探望-</a>
-<a class="over_3" href="category.php?id=69">-道歉-</a>
-<a class="over_3" href="category.php?id=70">-生日-</a>
 </div>   
        
- <a class="over_2" href="category.php?id=44">按对象</a>  
+ <a class="over_2" href="category.php?id=23">情侣蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=79">-恋人-</a>
-<a class="over_3" href="category.php?id=80">-朋友-</a>
-<a class="over_3" href="category.php?id=81">-父母-</a>
-<a class="over_3" href="category.php?id=82">-病人-</a>
-<a class="over_3" href="category.php?id=83">-同事-</a>
-<a class="over_3" href="category.php?id=84">-老师-</a>
-<a class="over_3" href="category.php?id=85">-客户-</a>
-<a class="over_3" href="category.php?id=86">-孩子-</a>
 </div>   
        
- <a class="over_2" href="category.php?id=45">按节日</a>  
+ <a class="over_2" href="category.php?id=24">节日蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=101">-情人节-</a>
-<a class="over_3" href="category.php?id=102">-七夕节-</a>
-<a class="over_3" href="category.php?id=103">-母亲节-</a>
-<a class="over_3" href="category.php?id=104">-父亲节-</a>
-<a class="over_3" href="category.php?id=105">-教师节-</a>
-<a class="over_3" href="category.php?id=106">-中秋节-</a>
-<a class="over_3" href="category.php?id=107">-圣诞节-</a>
-<a class="over_3" href="category.php?id=108">-年春节-</a>
-<a class="over_3" href="category.php?id=109">-妇女节-</a>
 </div>   
        
- <a class="over_2" href="category.php?id=46">按枝数</a>  
+ <a class="over_2" href="category.php?id=25">婚庆蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=89">-11支-</a>
-<a class="over_3" href="category.php?id=90">-19支-</a>
-<a class="over_3" href="category.php?id=92">-21支-</a>
-<a class="over_3" href="category.php?id=93">-33支-</a>
-<a class="over_3" href="category.php?id=94">-66支-</a>
-<a class="over_3" href="category.php?id=95">-99支-</a>
 </div>   
        
- <a class="over_2" href="category.php?id=47">按价格</a>  
+ <a class="over_2" href="category.php?id=111">庆典蛋糕</a>  
 <div class="clearfix">
-<a class="over_3" href="category.php?id=96">-100-200元-</a>
-<a class="over_3" href="category.php?id=97">-201-300元-</a>
-<a class="over_3" href="category.php?id=98">-301-500元-</a>
-<a class="over_3" href="category.php?id=99">-501-800元-</a>
-<a class="over_3" href="category.php?id=100">-800元以上-</a>
+</div>   
+       
+ <a class="over_2" href="category.php?id=26">儿童蛋糕</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=27">圣诞蛋糕</a>  
+<div class="clearfix">
 </div>   
        
 </dd> 
@@ -599,12 +559,14 @@ jQuery(document).ready(function(){
         <div id="HandleLI2_3">
         <a    class="a
          "
- href="category.php?id=3">
- 花材组合  <img src="themes/ecmoban_meilishuo/images/biao8.gif">
-                            <a target="_blank" href="category.php?id=48">玫瑰百合组合</a>&nbsp;
-                            <a target="_blank" href="category.php?id=49">百合乃馨组合</a>&nbsp;
-                            <a target="_blank" href="category.php?id=50">多色玫瑰组合</a>&nbsp;
-                            <a target="_blank" href="category.php?id=51">各种花材组合</a>&nbsp;
+ href="category.php?id=8">
+ 按造型  <img src="themes/ecmoban_meilishuo/images/biao8.gif">
+                            <a target="_blank" href="category.php?id=28">心形蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=29">方形蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=30">圆形蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=31">多层蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=32">艺术蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=33">生肖蛋糕</a>&nbsp;
             
  </a>
 </div>
@@ -612,19 +574,27 @@ jQuery(document).ready(function(){
         
         
 <dd  id=DisSub2_3 style="display:none"> 
- <a class="over_2" href="category.php?id=48">玫瑰百合组合</a>  
+ <a class="over_2" href="category.php?id=28">心形蛋糕</a>  
 <div class="clearfix">
 </div>   
        
- <a class="over_2" href="category.php?id=49">百合乃馨组合</a>  
+ <a class="over_2" href="category.php?id=29">方形蛋糕</a>  
 <div class="clearfix">
 </div>   
        
- <a class="over_2" href="category.php?id=50">多色玫瑰组合</a>  
+ <a class="over_2" href="category.php?id=30">圆形蛋糕</a>  
 <div class="clearfix">
 </div>   
        
- <a class="over_2" href="category.php?id=51">各种花材组合</a>  
+ <a class="over_2" href="category.php?id=31">多层蛋糕</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=32">艺术蛋糕</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=33">生肖蛋糕</a>  
 <div class="clearfix">
 </div>   
        
@@ -635,9 +605,12 @@ jQuery(document).ready(function(){
         <a    class="a
          t
 "
- href="category.php?id=4">
- 浪漫组合  <img src="themes/ecmoban_meilishuo/images/biao8.gif">
-                            <a target="_blank" href="category.php?id=52">鲜花蛋糕</a>&nbsp;
+ href="category.php?id=9">
+ 按对象  <img src="themes/ecmoban_meilishuo/images/biao8.gif">
+                            <a target="_blank" href="category.php?id=34">恋人蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=35">长辈蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=36">朋友蛋糕</a>&nbsp;
+                            <a target="_blank" href="category.php?id=37">baby蛋糕</a>&nbsp;
             
  </a>
 </div>
@@ -645,7 +618,19 @@ jQuery(document).ready(function(){
         
         
 <dd  id=DisSub2_4 style="display:none"> 
- <a class="over_2" href="category.php?id=52">鲜花蛋糕</a>  
+ <a class="over_2" href="category.php?id=34">恋人蛋糕</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=35">长辈蛋糕</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=36">朋友蛋糕</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=37">baby蛋糕</a>  
 <div class="clearfix">
 </div>   
        
@@ -655,11 +640,12 @@ jQuery(document).ready(function(){
         <div id="HandleLI2_5">
         <a    class="a
          "
- href="category.php?id=5">
- 特色礼品  <img src="themes/ecmoban_meilishuo/images/biao8.gif">
-                            <a target="_blank" href="category.php?id=53">毛绒玩具</a>&nbsp;
-                            <a target="_blank" href="category.php?id=54">开业花篮</a>&nbsp;
-                            <a target="_blank" href="category.php?id=55">品牌巧克力</a>&nbsp;
+ href="category.php?id=10">
+ 按价格  <img src="themes/ecmoban_meilishuo/images/biao8.gif">
+                            <a target="_blank" href="category.php?id=38">100-200元</a>&nbsp;
+                            <a target="_blank" href="category.php?id=39">200-300元</a>&nbsp;
+                            <a target="_blank" href="category.php?id=40">300-1000元</a>&nbsp;
+                            <a target="_blank" href="category.php?id=41">1000元以上</a>&nbsp;
             
  </a>
 </div>
@@ -667,15 +653,19 @@ jQuery(document).ready(function(){
         
         
 <dd  id=DisSub2_5 style="display:none"> 
- <a class="over_2" href="category.php?id=53">毛绒玩具</a>  
+ <a class="over_2" href="category.php?id=38">100-200元</a>  
 <div class="clearfix">
 </div>   
        
- <a class="over_2" href="category.php?id=54">开业花篮</a>  
+ <a class="over_2" href="category.php?id=39">200-300元</a>  
 <div class="clearfix">
 </div>   
        
- <a class="over_2" href="category.php?id=55">品牌巧克力</a>  
+ <a class="over_2" href="category.php?id=40">300-1000元</a>  
+<div class="clearfix">
+</div>   
+       
+ <a class="over_2" href="category.php?id=41">1000元以上</a>  
 <div class="clearfix">
 </div>   
        
@@ -708,46 +698,59 @@ jQuery(document).ready(function(){
   <div class="box">
 		<div class="box_1">
 	  <div class="screeBox">
-		<strong>蛋糕预定</strong>
-				                    <a href="category.php?id=6&pid=1">按材料</a>
-            				                    <a href="category.php?id=7&pid=1">按用途</a>
-            				    		        <span>按造型</span>
-		    				                    <a href="category.php?id=9&pid=1">按对象</a>
-            				                    <a href="category.php?id=10&pid=1">按价格</a>
+		<strong>按材料</strong>
+				                    <a href="category.php?id=11&pid=6">鲜奶蛋糕</a>
+            				                    <a href="category.php?id=12&pid=6">彩虹蛋糕</a>
+            				                    <a href="category.php?id=14&pid=6">水果蛋糕</a>
+            				                    <a href="category.php?id=15&pid=6">慕斯蛋糕</a>
+            				                    <a href="category.php?id=110&pid=6">冰激凌蛋糕</a>
+            				                    <a href="category.php?id=16&pid=6">芝士蛋糕</a>
+            				                    <a href="category.php?id=17&pid=6">无糖蛋糕</a>
+            				                    <a href="category.php?id=18&pid=6">翻糖蛋糕</a>
+            				                    <a href="category.php?id=19&pid=6">黑森林蛋糕</a>
+            				                    <a href="category.php?id=20&pid=6">巧克力蛋糕</a>
             			  </div>
 	</div>
 		<div class="box_1">
 	  <div class="screeBox">
-		<strong>鲜花速递</strong>
-				                    <a href="category.php?id=42&pid=2">花材选购</a>
-            				                    <a href="category.php?id=43&pid=2">按用途</a>
-            				                    <a href="category.php?id=44&pid=2">按对象</a>
-            				                    <a href="category.php?id=45&pid=2">按节日</a>
-            				                    <a href="category.php?id=46&pid=2">按枝数</a>
-            				                    <a href="category.php?id=47&pid=2">按价格</a>
+		<strong>按用途</strong>
+				                    <a href="category.php?id=21&pid=7">生日蛋糕</a>
+            				                    <a href="category.php?id=22&pid=7">祝寿蛋糕</a>
+            				                    <a href="category.php?id=23&pid=7">情侣蛋糕</a>
+            				                    <a href="category.php?id=24&pid=7">节日蛋糕</a>
+            				                    <a href="category.php?id=25&pid=7">婚庆蛋糕</a>
+            				                    <a href="category.php?id=111&pid=7">庆典蛋糕</a>
+            				                    <a href="category.php?id=26&pid=7">儿童蛋糕</a>
+            				                    <a href="category.php?id=27&pid=7">圣诞蛋糕</a>
             			  </div>
 	</div>
 		<div class="box_1">
 	  <div class="screeBox">
-		<strong>花材组合</strong>
-				                    <a href="category.php?id=48&pid=3">玫瑰百合组合</a>
-            				                    <a href="category.php?id=49&pid=3">百合乃馨组合</a>
-            				                    <a href="category.php?id=50&pid=3">多色玫瑰组合</a>
-            				                    <a href="category.php?id=51&pid=3">各种花材组合</a>
+		<strong>按造型</strong>
+				                    <a href="category.php?id=28&pid=8">心形蛋糕</a>
+            				                    <a href="category.php?id=29&pid=8">方形蛋糕</a>
+            				                    <a href="category.php?id=30&pid=8">圆形蛋糕</a>
+            				                    <a href="category.php?id=31&pid=8">多层蛋糕</a>
+            				                    <a href="category.php?id=32&pid=8">艺术蛋糕</a>
+            				                    <a href="category.php?id=33&pid=8">生肖蛋糕</a>
             			  </div>
 	</div>
 		<div class="box_1">
 	  <div class="screeBox">
-		<strong>浪漫组合</strong>
-				                    <a href="category.php?id=52&pid=4">鲜花蛋糕</a>
+		<strong>按对象</strong>
+				                    <a href="category.php?id=34&pid=9">恋人蛋糕</a>
+            				                    <a href="category.php?id=35&pid=9">长辈蛋糕</a>
+            				                    <a href="category.php?id=36&pid=9">朋友蛋糕</a>
+            				                    <a href="category.php?id=37&pid=9">baby蛋糕</a>
             			  </div>
 	</div>
 		<div class="box_1">
 	  <div class="screeBox">
-		<strong>特色礼品</strong>
-				                    <a href="category.php?id=53&pid=5">毛绒玩具</a>
-            				                    <a href="category.php?id=54&pid=5">开业花篮</a>
-            				                    <a href="category.php?id=55&pid=5">品牌巧克力</a>
+		<strong>按价格</strong>
+				                    <a href="category.php?id=38&pid=10">100-200元</a>
+            				                    <a href="category.php?id=39&pid=10">200-300元</a>
+            				                    <a href="category.php?id=40&pid=10">300-1000元</a>
+            				                    <a href="category.php?id=41&pid=10">1000元以上</a>
             			  </div>
 	</div>
 	</div>
@@ -2206,7 +2209,7 @@ function selectPage(sel)
     
     <div class="text" style="height:1px ; width:1px; overflow:hidden;">  
        
-      Tel: 400-6818-391 
+      Tel: 400-6986-591 
        
        
       E-mail: 1847069028@qq.com<br />
@@ -2272,7 +2275,7 @@ function selectPage(sel)
   
   
   
-	      <li> 服务热线: 400-6818-391</li>
+	      <li> 服务热线: 400-6986-591</li>
          </ul>
     </div>
     <div class="b"></div>
@@ -2349,17 +2352,34 @@ document.getElementById("divMenu").style.display = "block";
 document.getElementById("divOnline").style.display = "none";
 }
 </script>
+<link href="/ecmoban_qq1/css/style.css" rel="stylesheet" type="text/css" />
+<div id="rightArrow" onclick="rightArrowClick()"><a href="javascript:;" title="在线客户"></a></div>
+<div id="floatDivBoxs">
+	<div class="floatDtt">在线客服</div>
+    <div class="floatShadow">
+        <ul class="floatDqq">
+            <li style="padding-left:0px;"><a target="_blank" href=""><img src="/ecmoban_qq1/images/qq.png" align="absmiddle">&nbsp;&nbsp;777模板</a></li>
+        </ul>
+        <div class="floatDtxt">热线电话</div>
+        <div class="floatDtel"><img src="/ecmoban_qq1/images/online_phone.jpg" width="155" height="45" alt=""></div>
+        <div style="text-align:center;padding:10PX 0 5px 0;background:#EBEBEB;"><img src="/ecmoban_qq1/images/erweima.png"><br>微信公众账号</div>
+    </div>
+    <div class="floatDbg"></div>
+</div>
 <script type="text/javascript">
- var _mvq = _mvq || [];
- _mvq.push(['$setAccount', 'm-197016-0']);
- _mvq.push(['$logConversion']);
- (function() {
- var mvl = document.createElement('script');
- mvl.type = 'text/javascript'; mvl.async = true;
- mvl.src = ('https:' == document.location.protocol ? 'https://static-ssl.mediav.com/mvl.js' : 'http://static.mediav.com/mvl.js');
- var s = document.getElementsByTagName('script')[0];
- s.parentNode.insertBefore(mvl, s);
- })();
- </script>
-</body>
+var flag=1;
+function rightArrowClick(){
+    if(flag==1){
+		$("#floatDivBoxs").animate({right: '-175px'},300);
+		$(this).animate({right: '-5px'},300);
+		$(this).css('background-position','-50px 0');
+		flag=0;
+	}else{
+		$("#floatDivBoxs").animate({right: '0'},300);
+		$(this).animate({right: '170px'},300);
+		$(this).css('background-position','0px 0');
+		flag=1;
+	}
+}
+</script></body>
 </html>

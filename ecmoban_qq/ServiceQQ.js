@@ -1,4 +1,4 @@
-﻿document.write("<div class='QQbox' id='divQQbox' >");
+﻿document.write("<div class='QQbox' id='divQQbox' style='display: none;' >");
 document.write("<div class='Qlist' id='divOnline' onmouseout='hideMsgBox(event);' style='display : none;'>");
 document.write("<div class='t'></div>");
 document.write("<div class='infobox'>我们营业的时间<br>9:00-18:00</div>");

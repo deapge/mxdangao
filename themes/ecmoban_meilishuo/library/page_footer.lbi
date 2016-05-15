@@ -246,17 +246,44 @@ document.getElementById("divOnline").style.display = "none";
 }
 </script>
 
+
+<!-- 在线客服 ecmoban_qq1 -->
+<link href="/ecmoban_qq1/css/style.css" rel="stylesheet" type="text/css" />
+<div id="rightArrow" style="display:none;" onclick="rightArrowClick()"><a href="javascript:;" title="在线客服"></a></div>
+<div id="floatDivBoxs">
+	<div class="floatDtt">在线客服</div>
+    <div class="floatShadow">
+        <ul class="floatDqq">
+            <!-- QQ 号码 {foreach from=$qq item=im} -->
+                  <!-- {if $im} -->
+                   <li style="padding-left:0px;"><a href="http://wpa.qq.com/msgrd?V=1&amp;Uin={$im}&amp;Site={$shop_name}&amp;Menu=yes" target="_blank"><img src="/ecmoban_qq1/images/qq.png" border="0" alt="QQ" /> {$im}</a> </li>
+                  <!-- {/if} -->
+                  <!-- {/foreach} 结束QQ号码 -->
+        </ul>
+        <div class="floatDtxt">热线电话</div>
+        <div class="floatDtel">
+         <!-- 客服电话{if $service_phone} -->
+             <li> 服务热线: {$service_phone}</li>
+         <!-- 结束客服电话{/if} -->
+        </div>
+        <div style="text-align:center;padding:10PX 0 5px 0;background:#EBEBEB;"><img style="width:106px;" src="/ecmoban_qq1/images/erweima.png"><br>微信公众账号</div>
+    </div>
+    <div class="floatDbg"></div>
+</div>
+
 <script type="text/javascript">
- var _mvq = _mvq || [];
- _mvq.push(['$setAccount', 'm-197016-0']);
-
- _mvq.push(['$logConversion']);
- (function() {
- var mvl = document.createElement('script');
- mvl.type = 'text/javascript'; mvl.async = true;
- mvl.src = ('https:' == document.location.protocol ? 'https://static-ssl.mediav.com/mvl.js' : 'http://static.mediav.com/mvl.js');
- var s = document.getElementsByTagName('script')[0];
- s.parentNode.insertBefore(mvl, s);
- })();
-
- </script>
+var flag=1;
+function rightArrowClick(){
+    if(flag==1){
+		$("#floatDivBoxs").animate({right: '-175px'},300);
+		$(this).animate({right: '-5px'},300);
+		$(this).css('background-position','-50px 0');
+		flag=0;
+	}else{
+		$("#floatDivBoxs").animate({right: '0'},300);
+		$(this).animate({right: '170px'},300);
+		$(this).css('background-position','0px 0');
+		flag=1;
+	}
+}
+</script>

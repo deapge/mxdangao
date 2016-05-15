@@ -275,19 +275,6 @@ $data = array (
   ),
   21 => 
   array (
-    'cat_id' => '55',
-    'cat_name' => '品牌巧克力',
-    'measure_unit' => '',
-    'parent_id' => '5',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  22 => 
-  array (
     'cat_id' => '53',
     'cat_name' => '毛绒玩具',
     'measure_unit' => '',
@@ -299,10 +286,23 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  23 => 
+  22 => 
   array (
     'cat_id' => '54',
     'cat_name' => '开业花篮',
+    'measure_unit' => '',
+    'parent_id' => '5',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  23 => 
+  array (
+    'cat_id' => '55',
+    'cat_name' => '品牌巧克力',
     'measure_unit' => '',
     'parent_id' => '5',
     'is_show' => '1',
@@ -496,19 +496,6 @@ $data = array (
   ),
   38 => 
   array (
-    'cat_id' => '111',
-    'cat_name' => '庆典蛋糕',
-    'measure_unit' => '',
-    'parent_id' => '7',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  39 => 
-  array (
     'cat_id' => '25',
     'cat_name' => '婚庆蛋糕',
     'measure_unit' => '',
@@ -519,6 +506,19 @@ $data = array (
     'sort_order' => '50',
     'has_children' => '0',
     'goods_num' => '1',
+  ),
+  39 => 
+  array (
+    'cat_id' => '111',
+    'cat_name' => '庆典蛋糕',
+    'measure_unit' => '',
+    'parent_id' => '7',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
   ),
   40 => 
   array (
@@ -678,19 +678,6 @@ $data = array (
   ),
   52 => 
   array (
-    'cat_id' => '39',
-    'cat_name' => '200-300元',
-    'measure_unit' => '',
-    'parent_id' => '10',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  53 => 
-  array (
     'cat_id' => '40',
     'cat_name' => '300-1000元',
     'measure_unit' => '',
@@ -702,7 +689,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  54 => 
+  53 => 
   array (
     'cat_id' => '41',
     'cat_name' => '1000元以上',
@@ -715,7 +702,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  55 => 
+  54 => 
   array (
     'cat_id' => '38',
     'cat_name' => '100-200元',
@@ -728,33 +715,20 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
+  55 => 
+  array (
+    'cat_id' => '39',
+    'cat_name' => '200-300元',
+    'measure_unit' => '',
+    'parent_id' => '10',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
   56 => 
-  array (
-    'cat_id' => '76',
-    'cat_name' => '-康乃馨-',
-    'measure_unit' => '',
-    'parent_id' => '42',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  57 => 
-  array (
-    'cat_id' => '73',
-    'cat_name' => '-白玫瑰-',
-    'measure_unit' => '',
-    'parent_id' => '42',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  58 => 
   array (
     'cat_id' => '77',
     'cat_name' => '-郁金香-',
@@ -767,7 +741,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  59 => 
+  57 => 
   array (
     'cat_id' => '74',
     'cat_name' => '-蓝玫瑰-',
@@ -780,7 +754,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  60 => 
+  58 => 
   array (
     'cat_id' => '71',
     'cat_name' => '-红玫瑰-',
@@ -793,7 +767,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  61 => 
+  59 => 
   array (
     'cat_id' => '78',
     'cat_name' => '-香槟玫瑰-',
@@ -806,7 +780,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  62 => 
+  60 => 
   array (
     'cat_id' => '75',
     'cat_name' => '-百合-',
@@ -819,7 +793,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  63 => 
+  61 => 
   array (
     'cat_id' => '72',
     'cat_name' => '-粉玫瑰-',
@@ -832,33 +806,33 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
+  62 => 
+  array (
+    'cat_id' => '76',
+    'cat_name' => '-康乃馨-',
+    'measure_unit' => '',
+    'parent_id' => '42',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  63 => 
+  array (
+    'cat_id' => '73',
+    'cat_name' => '-白玫瑰-',
+    'measure_unit' => '',
+    'parent_id' => '42',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
   64 => 
-  array (
-    'cat_id' => '70',
-    'cat_name' => '-生日-',
-    'measure_unit' => '',
-    'parent_id' => '43',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  65 => 
-  array (
-    'cat_id' => '64',
-    'cat_name' => '-爱情-',
-    'measure_unit' => '',
-    'parent_id' => '43',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  66 => 
   array (
     'cat_id' => '68',
     'cat_name' => '-探望-',
@@ -871,7 +845,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  67 => 
+  65 => 
   array (
     'cat_id' => '65',
     'cat_name' => '-祝福-',
@@ -884,7 +858,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  68 => 
+  66 => 
   array (
     'cat_id' => '66',
     'cat_name' => '-友情-',
@@ -897,7 +871,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  69 => 
+  67 => 
   array (
     'cat_id' => '69',
     'cat_name' => '-道歉-',
@@ -910,7 +884,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  70 => 
+  68 => 
   array (
     'cat_id' => '67',
     'cat_name' => '-商务-',
@@ -923,46 +897,33 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
+  69 => 
+  array (
+    'cat_id' => '70',
+    'cat_name' => '-生日-',
+    'measure_unit' => '',
+    'parent_id' => '43',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  70 => 
+  array (
+    'cat_id' => '64',
+    'cat_name' => '-爱情-',
+    'measure_unit' => '',
+    'parent_id' => '43',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
   71 => 
-  array (
-    'cat_id' => '79',
-    'cat_name' => '-恋人-',
-    'measure_unit' => '',
-    'parent_id' => '44',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  72 => 
-  array (
-    'cat_id' => '86',
-    'cat_name' => '-孩子-',
-    'measure_unit' => '',
-    'parent_id' => '44',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  73 => 
-  array (
-    'cat_id' => '83',
-    'cat_name' => '-同事-',
-    'measure_unit' => '',
-    'parent_id' => '44',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  74 => 
   array (
     'cat_id' => '80',
     'cat_name' => '-朋友-',
@@ -975,7 +936,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  75 => 
+  72 => 
   array (
     'cat_id' => '84',
     'cat_name' => '-老师-',
@@ -988,7 +949,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  76 => 
+  73 => 
   array (
     'cat_id' => '81',
     'cat_name' => '-父母-',
@@ -1001,7 +962,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  77 => 
+  74 => 
   array (
     'cat_id' => '85',
     'cat_name' => '-客户-',
@@ -1014,7 +975,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  78 => 
+  75 => 
   array (
     'cat_id' => '82',
     'cat_name' => '-病人-',
@@ -1027,46 +988,46 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
+  76 => 
+  array (
+    'cat_id' => '79',
+    'cat_name' => '-恋人-',
+    'measure_unit' => '',
+    'parent_id' => '44',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  77 => 
+  array (
+    'cat_id' => '86',
+    'cat_name' => '-孩子-',
+    'measure_unit' => '',
+    'parent_id' => '44',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  78 => 
+  array (
+    'cat_id' => '83',
+    'cat_name' => '-同事-',
+    'measure_unit' => '',
+    'parent_id' => '44',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
   79 => 
-  array (
-    'cat_id' => '108',
-    'cat_name' => '-年春节-',
-    'measure_unit' => '',
-    'parent_id' => '45',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  80 => 
-  array (
-    'cat_id' => '105',
-    'cat_name' => '-教师节-',
-    'measure_unit' => '',
-    'parent_id' => '45',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  81 => 
-  array (
-    'cat_id' => '102',
-    'cat_name' => '-七夕节-',
-    'measure_unit' => '',
-    'parent_id' => '45',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  82 => 
   array (
     'cat_id' => '109',
     'cat_name' => '-妇女节-',
@@ -1079,7 +1040,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  83 => 
+  80 => 
   array (
     'cat_id' => '106',
     'cat_name' => '-中秋节-',
@@ -1092,7 +1053,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  84 => 
+  81 => 
   array (
     'cat_id' => '103',
     'cat_name' => '-母亲节-',
@@ -1105,7 +1066,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  85 => 
+  82 => 
   array (
     'cat_id' => '107',
     'cat_name' => '-圣诞节-',
@@ -1118,7 +1079,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  86 => 
+  83 => 
   array (
     'cat_id' => '104',
     'cat_name' => '-父亲节-',
@@ -1131,7 +1092,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  87 => 
+  84 => 
   array (
     'cat_id' => '101',
     'cat_name' => '-情人节-',
@@ -1144,33 +1105,46 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
+  85 => 
+  array (
+    'cat_id' => '108',
+    'cat_name' => '-年春节-',
+    'measure_unit' => '',
+    'parent_id' => '45',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  86 => 
+  array (
+    'cat_id' => '105',
+    'cat_name' => '-教师节-',
+    'measure_unit' => '',
+    'parent_id' => '45',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  87 => 
+  array (
+    'cat_id' => '102',
+    'cat_name' => '-七夕节-',
+    'measure_unit' => '',
+    'parent_id' => '45',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
   88 => 
-  array (
-    'cat_id' => '95',
-    'cat_name' => '-99支-',
-    'measure_unit' => '',
-    'parent_id' => '46',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  89 => 
-  array (
-    'cat_id' => '92',
-    'cat_name' => '-21支-',
-    'measure_unit' => '',
-    'parent_id' => '46',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  90 => 
   array (
     'cat_id' => '93',
     'cat_name' => '-33支-',
@@ -1183,7 +1157,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  91 => 
+  89 => 
   array (
     'cat_id' => '89',
     'cat_name' => '-11支-',
@@ -1196,7 +1170,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  92 => 
+  90 => 
   array (
     'cat_id' => '94',
     'cat_name' => '-66支-',
@@ -1209,7 +1183,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  93 => 
+  91 => 
   array (
     'cat_id' => '90',
     'cat_name' => '-19支-',
@@ -1222,12 +1196,12 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  94 => 
+  92 => 
   array (
-    'cat_id' => '98',
-    'cat_name' => '-301-500元-',
+    'cat_id' => '95',
+    'cat_name' => '-99支-',
     'measure_unit' => '',
-    'parent_id' => '47',
+    'parent_id' => '46',
     'is_show' => '1',
     'show_in_nav' => '0',
     'grade' => '0',
@@ -1235,7 +1209,20 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  95 => 
+  93 => 
+  array (
+    'cat_id' => '92',
+    'cat_name' => '-21支-',
+    'measure_unit' => '',
+    'parent_id' => '46',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  94 => 
   array (
     'cat_id' => '99',
     'cat_name' => '-501-800元-',
@@ -1248,7 +1235,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  96 => 
+  95 => 
   array (
     'cat_id' => '96',
     'cat_name' => '-100-200元-',
@@ -1261,7 +1248,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  97 => 
+  96 => 
   array (
     'cat_id' => '100',
     'cat_name' => '-800元以上-',
@@ -1274,10 +1261,23 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  98 => 
+  97 => 
   array (
     'cat_id' => '97',
     'cat_name' => '-201-300元-',
+    'measure_unit' => '',
+    'parent_id' => '47',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  98 => 
+  array (
+    'cat_id' => '98',
+    'cat_name' => '-301-500元-',
     'measure_unit' => '',
     'parent_id' => '47',
     'is_show' => '1',

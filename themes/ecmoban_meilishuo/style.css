@@ -133,11 +133,11 @@ a {
 
 /*字体颜色ecmoban.com*/
 .f1 {
-    color: #FF095B;
+    color: #c91622;
 }
 
 .f2 {
-    color: #FF095B;
+    color: #c91622;
     font-weight: bold;
     margin-right: 15px;
 }
@@ -151,7 +151,7 @@ a {
 }
 
 .f4_b {
-    color: #FF095B;
+    color: #c91622;
     font-weight: bold;
 }
 
@@ -173,7 +173,7 @@ a {
 .shop {
     font-family: '微软雅黑';
     font-size: 28px;
-    color: #FF095B;
+    color: #c91622;
     font-weight: bold
 }
 
@@ -182,7 +182,7 @@ a {
 }
 
 .shop_s {
-    color: #FF095B;
+    color: #c91622;
     font-weight: bold
 }
 
@@ -508,6 +508,7 @@ h6 span {
 #mainNav .nav_list{ padding-left:7px;}
 #mainNav .nav_list .level_2{color:#333333;overflow:hidden; /*background:url(images/arrow_01.gif) left 10px no-repeat;*/  line-height:25px;}
 #mainNav .nav_list .level_2 a{padding-left:15px;width:90px;font-size:12px; color:#666666; font-weight:normal;height:25px; line-height:25px;background:url(images/arrow_01.gif) left 10px no-repeat;}
+#mainNav .nav_list .level_2 .pardiv>a{color: #c91622;}
 #mainNav .nav_list .level_2 a:hover{padding-left:15px;width:90px;font-size:12px; font-weight:normal;height:25px; line-height:25px;background:url(images/arrow_01.gif) left 10px no-repeat; color:#FF0000;}
 #mainNav .nav_list .nava{background:none;margin:0; padding:0;text-align:left;width:90px;overflow:hidden;}
 #mainNav .nav_list .nava span{margin:0; padding:0;text-align:left;width:1px;overflow:hidden;}
@@ -669,7 +670,7 @@ h6 span {
     height: 32px;
     line-height: 32px;
     text-indent: 6px;
-    border: 3px solid #FF095B;
+    border: 3px solid #c91622;
     background: #fff;
     margin-bottom: 6px;
     color: #ccd1d9;
@@ -1081,7 +1082,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
     position: relative;
     top: -8px;
     right: 4px;
-    background: #FF095B;
+    background: #c91622;
     color: #fff;
 }
 
@@ -1110,7 +1111,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 }
 
 .cart_info li a:hover {
-    color: #FF095B
+    color: #c91622
 }
 
 .cart_info li span a:hover {
@@ -1146,7 +1147,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 
 .index_page .menu_box .menu { }
 .menu .terms-title{ width: 240px; height: 40px; line-height: 40px; margin: auto; text-align: center; font-size: 16px; font-weight: bold;  color: #fff;}
-.index_page #category_tree>dl { margin-top:-455px; }
+.index_page #category_tree>dl { margin-top:-635px; }
 #category_tree {position: absolute; z-index: 99999;}
 /*当前位置*/
 #ur_here {
@@ -1195,7 +1196,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 #category_tree .dt>div{margin: 0 20px;}
 
 #category_tree .dt .a {
-    color: #FF095B;
+    color: #c91622;
     font-family: "微软雅黑";
     font-size: 14px;
     font-weight: bold;
@@ -1205,7 +1206,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
     line-height: 48px;
     position: relative;
 }
-#category_tree a {font-size: 14px;}
+#category_tree a {font-size: 15px;}
 
 #category_tree .dt .a img {
     position: absolute;
@@ -1217,11 +1218,11 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 }
 
 #category_tree .dt .a:hover {
-    color: #FF095B
+    color: #c91622
 }
 
 #category_tree .current .a {
-    color: #FF095B;
+    color: #c91622;
     width: 238px;
 }
 
@@ -1262,7 +1263,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 }
 
 #category_tree dd .over_3:hover {
-    color: #FF095B;
+    color: #c91622;
     text-decoration: underline;
 }
 
@@ -1270,7 +1271,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
     display: block;
     height: 30px;
     line-height: 30px;
-    color: #666;
+    color: #c91622;
     font-weight: bold
 }
 
@@ -1371,7 +1372,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 }
 
 .top10List li a:hover, #mallNews .NewsList li a:hover, .boxCenterList li a:hover {
-    color: #FF095B;
+    color: #c91622;
     text-decoration: underline;
 }
 
@@ -1484,7 +1485,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 }
 
 #sales .goodBox .goodList p a:hover {
-    color: #FF095B;
+    color: #c91622;
     text-decoration: underline;
 }
 
@@ -1671,6 +1672,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
     text-align: left;
     line-height: 20px;
     height: 292px;
+    font-weight: bold;
 }
 
 .goodsItem .goodsimg {
@@ -1737,7 +1739,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 
 /*商品分类*/
 .xm-box {
-    border-top: 2px solid #FF095B;
+    border-top: 2px solid #c91622;
     border: 1px solid #e6e6e6
 }
 
@@ -1819,7 +1821,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 .RelaArticle a:hover {
     background: url(images/bg.gif) no-repeat 0px -170px;
     padding: 0px 0px 0px 10px;
-    color: #FF095B;
+    color: #c91622;
     text-decoration: underline;
 }
 
@@ -1874,7 +1876,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 .colle a:hover {
     background: none;
     padding: 0px;
-    color: #FF095B;
+    color: #c91622;
     text-decoration: underline;
 }
 
@@ -2024,7 +2026,6 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 
 #goodsInfo .textInfo a {
     color: #690000;
-    text-decoration: underline;
 }
 
 #goodsInfo .textInfo .loop {
@@ -2035,7 +2036,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
     border: 1px solid #ccc;
     text-align: center;
     font-weight: bold;
-    color: #FF095B;
+    color: #c91622;
     margin-bottom: 3px;
 }
 
@@ -2376,7 +2377,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 
 .goodsList a {
     text-decoration: none;
-    color: #FF095B
+    color: #c91622
 }
 
 .goodsList li.thumb {
@@ -2407,7 +2408,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 }
 
 .goodsList li.goodsName .bnt_blue {
-    color: #FF095B;
+    color: #c91622;
     font-size: 12px;
     float: left;
     font-weight: normal;
@@ -2539,7 +2540,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
 }
 
 .pagebar a:hover {
-    color: #FF095B;
+    color: #c91622;
     text-decoration: none;
 }
 
@@ -2547,7 +2548,7 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
     display: block;
     float: left;
     margin: 0 5px;
-    color: #FF095B;
+    color: #c91622;
     font-weight: bold;
     background: #fff;
 }

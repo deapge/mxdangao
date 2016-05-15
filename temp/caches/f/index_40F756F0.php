@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:10:{i:0;s:65:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/index.dwt";i:1;s:79:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/page_header.lbi";i:2;s:76:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/index_ad.lbi";i:3;s:87:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/category_tree_index.lbi";i:4;s:82:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/recommend_best.lbi";i:5;s:81:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/recommend_hot.lbi";i:6;s:77:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/cat_goods.lbi";i:7;s:87:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/recommend_promotion.lbi";i:8;s:72:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/help.lbi";i:9;s:79:"/home/wwwroot/www.mxdangao.com/themes/ecmoban_meilishuo/library/page_footer.lbi";}s:7:"expires";i:1462375834;s:8:"maketime";i:1462372234;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:10:{i:0;s:72:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/index.dwt";i:1;s:86:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/page_header.lbi";i:2;s:83:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/index_ad.lbi";i:3;s:94:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/category_tree_index.lbi";i:4;s:89:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/recommend_best.lbi";i:5;s:88:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/recommend_hot.lbi";i:6;s:84:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/cat_goods.lbi";i:7;s:94:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/recommend_promotion.lbi";i:8;s:79:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/help.lbi";i:9;s:86:"/Library/WebServer/Documents/mxdangao/themes/ecmoban_meilishuo/library/page_footer.lbi";}s:7:"expires";i:1463304635;s:8:"maketime";i:1463301035;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -408,10 +408,10 @@ catch (e) {
  
 <style type="text/css"> 
 .container, .container *{margin:0; padding:0;}
-.container{width:100%; height:419px; overflow:hidden;position:relative;}
-.slider{position:absolute; width:100%; height:419px;}
-.slider li , .slider li a{list-style:none; float:left;width:100%; height:419px;}
-.slider img{width:100%; height:419px; display:block;}
+.container{width:100%; height:600px; overflow:hidden;position:relative;}
+.slider{position:absolute; width:100%; height:600px;}
+.slider li , .slider li a{list-style:none; float:left;width:100%; height:600px;}
+.slider img{width:100%; height:600px; display:block;}
 .slider2{width:2000px;}
 .slider2 li{float:left;}
 .num{position:absolute; right:5px; bottom:5px; width:800px; margin:0 auto;}
@@ -1656,7 +1656,7 @@ jQuery(document).ready(function(){
     
     <div class="text" style="height:1px ; width:1px; overflow:hidden;">  
        
-      Tel: 400-6818-391 
+      Tel: 400-6986-591 
        
        
       E-mail: 1847069028@qq.com<br />
@@ -1722,7 +1722,7 @@ jQuery(document).ready(function(){
   
   
   
-	      <li> 服务热线: 400-6818-391</li>
+	      <li> 服务热线: 400-6986-591</li>
          </ul>
     </div>
     <div class="b"></div>
@@ -1799,17 +1799,37 @@ document.getElementById("divMenu").style.display = "block";
 document.getElementById("divOnline").style.display = "none";
 }
 </script>
+<link href="/ecmoban_qq1/css/style.css" rel="stylesheet" type="text/css" />
+<div id="rightArrow" style="display:none;" onclick="rightArrowClick()"><a href="javascript:;" title="在线客服"></a></div>
+<div id="floatDivBoxs">
+	<div class="floatDtt">在线客服</div>
+    <div class="floatShadow">
+        <ul class="floatDqq">
+                                                 <li style="padding-left:0px;"><a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=330108788&amp;Site=梦想蛋糕店&amp;Menu=yes" target="_blank"><img src="/ecmoban_qq1/images/qq.png" border="0" alt="QQ" /> 330108788</a> </li>
+                                                                         <li style="padding-left:0px;"><a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=1847069028&amp;Site=梦想蛋糕店&amp;Menu=yes" target="_blank"><img src="/ecmoban_qq1/images/qq.png" border="0" alt="QQ" /> 1847069028</a> </li>
+                                            </ul>
+        <div class="floatDtxt">热线电话</div>
+        <div class="floatDtel">
+                      <li> 服务热线: 400-6986-591</li>
+                 </div>
+        <div style="text-align:center;padding:10PX 0 5px 0;background:#EBEBEB;"><img style="width:106px;" src="/ecmoban_qq1/images/erweima.png"><br>微信公众账号</div>
+    </div>
+    <div class="floatDbg"></div>
+</div>
 <script type="text/javascript">
- var _mvq = _mvq || [];
- _mvq.push(['$setAccount', 'm-197016-0']);
- _mvq.push(['$logConversion']);
- (function() {
- var mvl = document.createElement('script');
- mvl.type = 'text/javascript'; mvl.async = true;
- mvl.src = ('https:' == document.location.protocol ? 'https://static-ssl.mediav.com/mvl.js' : 'http://static.mediav.com/mvl.js');
- var s = document.getElementsByTagName('script')[0];
- s.parentNode.insertBefore(mvl, s);
- })();
- </script>
-</body>
+var flag=1;
+function rightArrowClick(){
+    if(flag==1){
+		$("#floatDivBoxs").animate({right: '-175px'},300);
+		$(this).animate({right: '-5px'},300);
+		$(this).css('background-position','-50px 0');
+		flag=0;
+	}else{
+		$("#floatDivBoxs").animate({right: '0'},300);
+		$(this).animate({right: '170px'},300);
+		$(this).css('background-position','0px 0');
+		flag=1;
+	}
+}
+</script></body>
 </html>
