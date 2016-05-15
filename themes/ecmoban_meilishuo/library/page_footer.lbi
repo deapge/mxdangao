@@ -268,7 +268,6 @@ document.getElementById("divOnline").style.display = "none";
         </div>
         <div style="text-align:center;padding:10PX 0 5px 0;background:#EBEBEB;"><img style="width:106px;" src="/ecmoban_qq1/images/erweima.png"><br>微信公众账号</div>
     </div>
-    <div class="floatDbg"></div>
 </div>
 
 <script type="text/javascript">
